@@ -2,7 +2,7 @@
 This is a sample program to test the smart card function. 
 
 ## Problem
-   STM32CubeF0 firmware version 1.8.0 generated code doesn't work for smart card command.
+   STM32CubeF0 firmware version 1.8.0 generated code doesn't work for smart card command.  But it was working at previous version 1.6.0.  (I haven't tried 1.7.0)
    
    ("init commit" is firmware version 1.6.0.  "firmware 1.8.0" is for firmware version 1.8.0)
    
