@@ -25,7 +25,7 @@ This is a sample program to test the smart card function.
 
 ## Firmware STM32F0 CubeF0 version 1.6.0
 
-![fw 1.6.0 command read configureation](https://github.com/MichaelTien8901/STM32F0-Smartcard-TEST/master/pics/fw1_6_0.png "Data bus for command read configureation")
+![fw 1.6.0 command read configureation](https://github.com/MichaelTien8901/STM32F0-Smartcard-TEST/blob/master/pics/fw1_6_0.png "Data bus for command read configureation")
 
 ## Firmware STM32F0 CubeF0 version 1.8.0
-![fw 1.8.0 command read configureation](https://github.com/MichaelTien8901/STM32F0-Smartcard-TEST/master/pics/fw1_8_0.png "Data bus for command read configureation")
+![fw 1.8.0 command read configureation](https://github.com/MichaelTien8901/STM32F0-Smartcard-TEST/blob/master/pics/fw1_8_0.png "Data bus for command read configureation")
